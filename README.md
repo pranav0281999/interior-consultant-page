@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://.gatsbyjs.io/">
+    <a href="https://interiorconsultant.gatsbyjs.io/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/pranav0281999/">
+    <a href="https://github.com/pranav0281999/interior-consultant-page">
       Solution
     </a>
     <span> | </span>
@@ -35,9 +35,9 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/pranav0281999/interior-consultant-page/master/demo/desktopScreenshot.png)
 
-- I tried this project with Gatsby, so I learned that, and I improved by knowledge in CSS.
+- I developed this project with Gatsby, so I learned that, and I improved by knowledge in CSS.
 - My wisdom is, have some practice with CSS media queries and flex-box.
 
 ### Built With
