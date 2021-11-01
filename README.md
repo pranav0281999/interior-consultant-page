@@ -1,54 +1,59 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby minimal starter
-</h1>
+<!-- Please update value in the {}  -->
 
-## 🚀 Quick start
+<h1 align="center">Interior Consultant</h1>
 
-1.  **Create a Gatsby site.**
+<div align="center">
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+</div>
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+<div align="center">
+  <h3>
+    <a href="https://.gatsbyjs.io/">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://github.com/pranav0281999/">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
+      Challenge
+    </a>
+  </h3>
+</div>
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+<!-- TABLE OF CONTENTS -->
 
-2.  **Start developing.**
+## Table of Contents
 
-    Navigate into your new site’s directory and start it up.
+- [Overview](#overview)
+    - [Built With](#built-with)
+- [Features](#features)
+- [Contact](#contact)
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+<!-- OVERVIEW -->
 
-3.  **Open the code and start customizing!**
+## Overview
 
-    Your site is now running at http://localhost:8000!
+![screenshot]()
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+- I tried this project with Gatsby, so I learned that, and I improved by knowledge in CSS.
+- My wisdom is, have some practice with CSS media queries and flex-box.
 
-4.  **Learn more**
+### Built With
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+- [Gatsby](https://www.gatsbyjs.com)
 
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+## Features
 
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories.
 
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+## Contact
 
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+- Website [pranav0281999.github.io](https://pranav0281999.github.io/)
+- GitHub [@pranav0281999](https://github.com/pranav0281999)
+- Email [pranav0281999@gmail.com](mailto:pranav0281999@gmail.com)
